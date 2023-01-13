@@ -3,7 +3,6 @@
     "description": "Tele Link (link shortener) a pure php project with custom micro framework",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Irpcpro\\TeleLink\\": "src/"
