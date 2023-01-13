@@ -24,10 +24,11 @@
     },
     "require": {
         "php": "^7.4",
-        "vitodtagliente/pure-routing": "*",
+        "vitodtagliente/pure-routing": "dev-master",
         "rych/phpass": "^2.0",
         "firebase/php-jwt": "^6.3",
         "ext-json": "*",
         "ext-mysqli": "*"
-    }
+    },
+    "minimum-stability": "dev"
 }
