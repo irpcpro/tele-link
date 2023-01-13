@@ -1,7 +1,7 @@
 {
     "name": "irpcpro/tele-link",
     "description": "Tele Link (link shortener) a pure php project with custom micro framework.",
-    "keywords": ["shortener link", "php", "short link service", "micro framework"],
+    "keywords": ["shortener_link", "php", "short_link_service", "micro_framework"],
     "version": "1.0.0",
     "type": "project",
     "license": "MIT",
