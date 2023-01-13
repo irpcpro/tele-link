@@ -1,7 +1,7 @@
 <h1>TeleLink</h1>
 
 **Version:**
-<span>1.0.1</span>
+<span>1.0.0</span>
 
 <p>Link shortening system (PHP) pure php project with custom micro framework</p>
 
@@ -10,6 +10,13 @@
 [![License](http://poser.pugx.org/irpcpro/tele-link/license)](https://packagist.org/packages/irpcpro/tele-link)
 [![PHP Version Require](http://poser.pugx.org/irpcpro/tele-link/require/php)](https://packagist.org/packages/irpcpro/tele-link)
 ----
+
+<h2>Installation</h2>
+
+Install this project via Composer:
+```
+composer create-project irpcpro/tele-link
+```
 
 <h6>Requires:</h6>
 
