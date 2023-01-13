@@ -1,7 +1,7 @@
 <h1>TeleLink</h1>
 
 **Version:**
-<span>2.0.0</span>
+<span>1.0.0</span>
 
 <p>Link shortening system (PHP) pure php project with custom micro framework</p>
 
