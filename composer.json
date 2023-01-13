@@ -30,5 +30,5 @@
         "ext-json": "*",
         "ext-mysqli": "*"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
