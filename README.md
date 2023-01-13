@@ -1,10 +1,14 @@
 <h1>TeleLink</h1>
 
 **Version:**
-<span>1.0.0</span>
+<span>1.0.1</span>
 
 <p>Link shortening system (PHP) pure php project with custom micro framework</p>
 
+[![Latest Stable Version](http://poser.pugx.org/irpcpro/tele-link/v)](https://packagist.org/packages/irpcpro/tele-link)
+[![Total Downloads](http://poser.pugx.org/irpcpro/tele-link/downloads)](https://packagist.org/packages/irpcpro/tele-link)
+[![License](http://poser.pugx.org/irpcpro/tele-link/license)](https://packagist.org/packages/irpcpro/tele-link)
+[![PHP Version Require](http://poser.pugx.org/irpcpro/tele-link/require/php)](https://packagist.org/packages/irpcpro/tele-link)
 ----
 
 <h6>Requires:</h6>
