@@ -29,6 +29,5 @@
         "firebase/php-jwt": "^6.3",
         "ext-json": "*",
         "ext-mysqli": "*"
-    },
-    "minimum-stability": "stable"
+    }
 }
