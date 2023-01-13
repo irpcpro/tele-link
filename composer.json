@@ -1,6 +1,6 @@
 {
     "name": "irpcpro/tele-link",
-    "description": "Tele Link (link shortener) a pure php project with custom micro framework",
+    "description": "Tele Link (link shortener) a pure php project with custom micro framework.",
     "type": "library",
     "license": "MIT",
     "autoload": {
