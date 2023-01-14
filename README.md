@@ -22,7 +22,7 @@ composer create-project irpcpro/tele-link
 
 <ul>
     <li>php: "^7.4",</li>
-    <li>vitodtagliente/pure-routing: "dev-master",</li>
+    <li>vitodtagliente/pure-routing: "^1.0",</li>
     <li>rych/phpass: "^2.0",</li>
     <li>firebase/php-jwt: "^6.3",</li>
     <li>ext-json: "*",</li>
