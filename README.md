@@ -3,7 +3,7 @@
 **Version:**
 <span>1.0.0</span>
 
-<p>Link shortening system (PHP) pure php project with custom micro framework</p>
+<p>Link shortening system (PHP) pure php project with custom micro framework.</p>
 
 [![Latest Stable Version](http://poser.pugx.org/irpcpro/tele-link/v)](https://packagist.org/packages/irpcpro/tele-link)
 [![Total Downloads](http://poser.pugx.org/irpcpro/tele-link/downloads)](https://packagist.org/packages/irpcpro/tele-link)
